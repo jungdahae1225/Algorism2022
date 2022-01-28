@@ -1,4 +1,3 @@
-# Algorism2022
 📚To Do
 -----------
      🖊 Greedy 50set
